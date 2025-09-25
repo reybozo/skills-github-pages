@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Alex BP Website
 # Hello! This is my awesome page, enjoy !
 ---
 
